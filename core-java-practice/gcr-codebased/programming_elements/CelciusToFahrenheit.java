@@ -8,7 +8,7 @@ public class CelciusToFahrenheit {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		double celsius = sc.nextDouble();
-		double fahrenheit = (celsius * 9/5) + 32;
+		double fahrenheit = (celsius * 9 / 5) + 32;
 		System.out.println(fahrenheit);
 	}
 

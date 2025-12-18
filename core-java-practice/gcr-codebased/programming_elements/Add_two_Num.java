@@ -1,6 +1,6 @@
 package programming_elements;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Add_two_Num {
 
@@ -9,8 +9,8 @@ public class Add_two_Num {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		int sum = a + b ;
-		System.out.println("Addition of " + a + " and " + b + " is " + sum );
+		int sum = a + b;
+		System.out.println("Addition of " + a + " and " + b + " is " + sum);
 	}
 
 }

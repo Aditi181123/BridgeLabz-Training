@@ -9,7 +9,7 @@ public class PerimeterOfRectangle {
 		Scanner sc = new Scanner(System.in);
 		double width = sc.nextDouble();
 		double length = sc.nextDouble();
-		double perimeter = 2 * (length+width);
+		double perimeter = 2 * (length + width);
 		System.out.println(perimeter);
 	}
 
