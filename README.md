@@ -20,6 +20,6 @@ BridgeLabz-Training
       |   +-> On 17 Dec 2025 -> 5 Basic Questions
       |  
       +--scenario-codebase
-         +->
+          +->
 ```
 
