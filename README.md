@@ -1,8 +1,10 @@
 # BridgeLabz-Training
-```text
+
+## Folder Structure - GitHub Repository 
+```
 BridgeLabz-Training
 |
-+--main
++--main(branch)
 |  +- README file
 |
 +--core-java-practice(branch)
@@ -25,4 +27,23 @@ BridgeLabz-Training
       +--scenario-base
           +-> On 20 Dec 2025 -> 2 Questions 
 ```
+
+## Daily Progress Log – BridgeLabz 2215000084
+This log tracks the daily tasks completed during the BridgeLabz Training Program . The tasks are arranged week-wise with topic headings and describe the work done on each day and date.
+
+### 1.   Week 1 : Getting Started with Setup and Java Basics
+* **16 Dec 2025 (Tuesday) :**  Installed and set up the Eclipse and Git Repository.
+* **17 Dec 2025 (Wednesday) :**  Set up Folder Structure and submitted 5 Basic Java Leetcode Questions.
+* **18 Dec 2025 (Thursday) :**  Completed and submitted Programming Elements Questoins.
+* **19 Dec 2025 (Friday) :**  Completed and submitted Control Flows Questions.
+* **20 Dec 2025 (Saturday) :** Completed and submitted 2 Scenario Based Question and Arrays Questions.
+* **21 Dec 2025 (Sunday) :** Read documentation on Strings .
+
+### 2. Week 2 : Methods and Srrings 
+* **22 Dec 2025 (Monday) :** Completed and submitted Strings Questions .
+
+
+
+
+
 
