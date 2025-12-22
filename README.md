@@ -56,13 +56,13 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 ### 1.   Week 1 : Getting Started with Setup and Java Basics
 * **16 Dec 2025 (Tuesday) :**  Installed and set up the Eclipse and Git Repository.
 * **17 Dec 2025 (Wednesday) :**  Set up Folder Structure and submitted 5 Basic Java Leetcode Questions.
-* **18 Dec 2025 (Thursday) :**  Completed and submitted Programming Elements Questoins.[click](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/programming_elements)
-* **19 Dec 2025 (Friday) :**  Completed and submitted Control Flows Questions.[click](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/controls_flows)
-* **20 Dec 2025 (Saturday) :** Completed and submitted 2 Scenario Based Question and Arrays Questions.[click](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/arrays)
+* **18 Dec 2025 (Thursday) :**  Completed and submitted Programming Elements Questoins.[Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/programming_elements)
+* **19 Dec 2025 (Friday) :**  Completed and submitted Control Flows Questions.[Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/controls_flows)
+* **20 Dec 2025 (Saturday) :** Completed and submitted 2 Scenario Based Question and Arrays Questions.[Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/arrays)
 * **21 Dec 2025 (Sunday) :** Read documentation on Strings .
 
 ### 2. Week 2 : Methods and Srrings 
-* **22 Dec 2025 (Monday) :** Completed and submitted Strings Questions .
+* **22 Dec 2025 (Monday) :** Completed and submitted Strings Questions .[Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/c985e2c7f9ab43fe6575686b25eb58ee20fe2e85/core-java-practice/gcr-codebased/strings)
 
 
 
