@@ -24,6 +24,9 @@ BridgeLabz-Training
 |     |   |
 |     |   +- methods
 |     |   |   +-> On 23 Dec 2025 -> 19 Questions (50% of each level)
+|     |   |
+|     |   +- extra
+|     |       +-> On 24 Dec 2025 -> 6 Questions (50% of each level)
 |     |
 |     +--leetcode-codebase
 |     |   +-> On 17 Dec 2025 -> 5 Basic Questions
@@ -32,11 +35,26 @@ BridgeLabz-Training
 |         +-> On 20 Dec 2025 -> 2 Questions
 |
 |
-+--OOPS(branch)
-|  +--OOPS(folder name)
++--oops-practice(branch)
+|  +--oops-practice(folder name)
 |     +--gcr-codebased
-|     |   +-
-|     |
+|     |   +- class_and_object
+|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |
+|     |   +- oopsBasics
+|     |   |   +-> On 26 Dec 2025 -> 6  Questions (50% of each level)
+|     |   |
+|     |   +- keyword
+|     |   |  +-> On 26 Dec 2025 -> 4  Questions (50% of each level)
+|     |   |
+|     |   +- object_modeling
+|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |
+|     |   +- inheritance
+|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |
+|     |   +- pillars_of_oops
+|     |      +-> On 27 Dec 2025 -> 4  Questions (50% of each level)
 |     |
 |     +--leetcode-codebase
 |     |  +->
@@ -44,6 +62,19 @@ BridgeLabz-Training
 |     +--scenario-base
 |        +->
 |
+|
++--dsa-practice(branch)
+|  +-dsa-practice(folder name)
+|     +--gcr-codebased
+|     |   +-linked_list
+|     |   |  +-> On 29 Dec 2025 -> 4  Questions (50% of each level)
+|     |   |
+|     |
+|     +--leetcode-codebase
+|     |  +->
+|     |
+|     +--scenario-base
+|        +->
 |
 +--> readme.md
 
@@ -54,22 +85,60 @@ BridgeLabz-Training
 ```
 
 ## Daily Progress Log – BridgeLabz 2215000084
+
 This log tracks the daily tasks completed during the BridgeLabz Training Program . The tasks are arranged week-wise with topic headings and describe the work done on each day and date.
 
-## 1.   Week 1 : Getting Started with Setup and Java Basics
-* **16 Dec 2025 (Tuesday) :**  Installed and set up the Eclipse and Git Repository.
-* **17 Dec 2025 (Wednesday) :**  Set up Folder Structure and submitted 5 Basic Java Leetcode Questions.
-* **18 Dec 2025 (Thursday) :**  Completed and submitted Programming Elements Questoins. [Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/programming_elements)
-* **19 Dec 2025 (Friday) :**  Completed and submitted Control Flows Questions. [Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/controls_flows)
-* **20 Dec 2025 (Saturday) :** Completed and submitted 2 Scenario Based Question and Arrays Questions. [Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/arrays)
-* **21 Dec 2025 (Sunday) :** Read documentation on Strings .
 
-### 2. Week 2 : Methods and Srrings 
-* **22 Dec 2025 (Monday) :** Completed and submitted Strings Questions . [Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/c985e2c7f9ab43fe6575686b25eb58ee20fe2e85/core-java-practice/gcr-codebased/strings)
-* **23 Dec 2025 (Tuesday) :** Completed and submitted Methods Questions . [Code](https://github.com/Aditi181123/BridgeLabz-Training/tree/abe6a6edc0fcfda93413c6218fbb42a2bab89337/core-java-practice/gcr-codebased/Method)
+## Week 00 - Set Up 
++ ### Day 1. 16 Dec 2025 (Tuesday):
+  - Installed and configured Eclipse IDE .
+  - Initialized and set up Git repository  . [***Git Hub***](https://github.com/Aditi181123/BridgeLabz-Training.git)
++ ### Day 2. 17 Dec 2025 (Wednesday):
+  - Created and organized project folder structure .
+  - Solved and submitted 5 basic Java LeetCode problems . [***LeetCode***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/leetcode-codebase)
 
 
+## Week 01 - Core Programming
++ ### Day 3. 18 Dec 2025 (Thursday):
+  - Practiced and implemented `Programming Elements` concepts .
+  - Submitted solutions to the Git repository . [***Programming Elements***](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/programming_elements)
++ ### Day 4. 19 Dec 2025 (Friday):
+  - Solved Control Flow–based problems . 
+  - Committed completed solutions to GitHub . [***Control Flows***](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/controls_flows)  
++ ### Day 5. 20 Dec 2025 (Saturday):
+  - Worked on scenario-based problem statements . [***Scenario***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/scenario_base)
+  - Practiced and submitted Arrays-related coding exercises . [***Arrays***](https://github.com/Aditi181123/BridgeLabz-Training/tree/19485ad8a1d29a10ec20bdf9c98ca2761ff2d792/core-java-practice/gcr-codebased/arrays)
++ ### Day 6 – 21 Dec 2025 (Sunday):
+  - Studied Java `Strings` documentation .
+  - Practiced and implemented concepts .
++ ### Day 7 – 22 Dec 2025 (Monday):
+  - Practiced and uploaded String-related completed solutions to the repository .  [***Strings***](https://github.com/Aditi181123/BridgeLabz-Training/tree/c985e2c7f9ab43fe6575686b25eb58ee20fe2e85/core-java-practice/gcr-codebased/strings)
+  - Studied and implemented Methods-related programs .
++ ### Day 8 – 23 De 2025 (Tuesday):
+  - Submitted `Methods` solutions for evaluation . [***Methods***](https://github.com/Aditi181123/BridgeLabz-Training/tree/abe6a6edc0fcfda93413c6218fbb42a2bab89337/core-java-practice/gcr-codebased/Method)
+  - Solved additional `String-Handling` Questions . [***Strings***](https://github.com/Aditi181123/BridgeLabz-Training/tree/c985e2c7f9ab43fe6575686b25eb58ee20fe2e85/core-java-practice/gcr-codebased/strings)
++ ### Day 9 – 24 Dec 2025 (Wednesday):
+  - Solved additional `Built-in Function` practice problems.
+  - Committed completed solutions to GitHub . [***Extra***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/gcr-codebased/extra)
 
+
+## Week 02 - Object-Oriented Programming
++ ### Day 10 – 25 Dec 2025 (Thursday):
+  - Practiced basic `OOPS` concepts through coding problems .
+  - Implemented programs using Classes and Objects . [***Class and Object***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/class_and_object)
+  - Practiced Constructors , Instance vs. Class Variables and Access Modifiers . [***OOPS Basics***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/oopsBasics)
++ ### Day 11 – 26 Dec 2025 (Friday):
+  - Practiced programs using `this`, `static`, and `final` keywords and `instanceof` operator . [***Keyword***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/keyword)
+  - Studied and applied Object-Oriented Design Principles . [***Object Modelling***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/object_modelling)
+  - Worked on programs related to Inheritance . [***Inheritance***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/inheritence)
++ ### Day 12 - 27 Dec 2025 (Saturday):
+  - Implemented programs demonstrating Encapsulation and Polymorphism .
+  - Practiced Interfaces and Abstract Classes with practical examples . [***Pillars of OOPS***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/pillars_of_oops)
+ 
+    
+## Week 03 - Data Structures & Algorithms
++ ### Day 14 - 29 Dec 2025 (Monday):
+  - Studied and implemented Linked-List related problems . [***Linked List***](
 
 
 
