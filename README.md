@@ -138,7 +138,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
     
 ## Week 03 - Data Structures & Algorithms
 + ### Day 14 - 29 Dec 2025 (Monday):
-  - Studied and implemented Linked-List related problems . [***Linked List***](
+  - Studied and implemented Linked-List related problems . [***Linked List***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3f79f794b370eeba55b2b3ce532294cdc2c97a39/dsa-practice/gcr-codebase/linked_list)
 
 
 
