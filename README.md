@@ -4,11 +4,10 @@
 ```
 BridgeLabz-Training
 |
-+--main(branch)
++--main (branch)
 |  +- README file
 |
-+--core-java-practice(branch)
-|  +--core-java-practice(folder name)
++--core-java-practice (branch & folder name)
 |     +--gcr-codebased
 |     |   +- programming_elements
 |     |   |   +-> On 18 Dec 2025 -> 21 Basic Questions
@@ -35,8 +34,7 @@ BridgeLabz-Training
 |         +-> On 20 Dec 2025 -> 2 Questions
 |
 |
-+--oops-practice(branch)
-|  +--oops-practice(folder name)
++--oops-practice (branch & folder name)
 |     +--gcr-codebased
 |     |   +- class_and_object
 |     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
@@ -63,8 +61,7 @@ BridgeLabz-Training
 |        +->
 |
 |
-+--dsa-practice(branch)
-|  +-dsa-practice(folder name)
++--dsa-practice (branch & folder name)
 |     +--gcr-codebased
 |     |   +-linked_list
 |     |   |  +-> On 29 Dec 2025 -> 4  Questions (50% of each level)
@@ -76,7 +73,7 @@ BridgeLabz-Training
 |     +--scenario-base
 |        +->
 |
-+--> readme.md
++--> review 
 
 
 
