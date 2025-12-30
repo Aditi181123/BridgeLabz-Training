@@ -16,16 +16,16 @@ BridgeLabz-Training
 |     |   |   +-> On 19 Dec 2025 -> 40 Questions
 |     |   |
 |     |   +- arrays
-|     |   |   +-> On 20 Dec 2025 -> 10 Questions (50% of both levels)
+|     |   |   +-> On 20 Dec 2025 -> 10 Questions
 |     |   |
 |     |   +- strings
-|     |   |   +-> On 22 Dec 2025 -> 15 Questions (50% of each level)
+|     |   |   +-> On 22 Dec 2025 -> 15 Questions 
 |     |   |
 |     |   +- methods
-|     |   |   +-> On 23 Dec 2025 -> 19 Questions (50% of each level)
+|     |   |   +-> On 23 Dec 2025 -> 19 Questions
 |     |   |
 |     |   +- extra
-|     |       +-> On 24 Dec 2025 -> 6 Questions (50% of each level)
+|     |       +-> On 24 Dec 2025 -> 6 Questions
 |     |
 |     +--leetcode-codebase
 |     |   +-> On 17 Dec 2025 -> 5 Basic Questions
@@ -37,22 +37,22 @@ BridgeLabz-Training
 +--oops-practice (branch & folder name)
 |     +--gcr-codebased
 |     |   +- class_and_object
-|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |  +-> On 26 Dec 2025 -> 5 Questions 
 |     |   |
 |     |   +- oopsBasics
-|     |   |   +-> On 26 Dec 2025 -> 6  Questions (50% of each level)
+|     |   |  +-> On 26 Dec 2025 -> 6 Questions
 |     |   |
 |     |   +- keyword
-|     |   |  +-> On 26 Dec 2025 -> 4  Questions (50% of each level)
+|     |   |  +-> On 26 Dec 2025 -> 4 Questions
 |     |   |
 |     |   +- object_modeling
-|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |  +-> On 26 Dec 2025 -> 5 Questions
 |     |   |
 |     |   +- inheritance
-|     |   |  +-> On 26 Dec 2025 -> 5  Questions (50% of each level)
+|     |   |  +-> On 26 Dec 2025 -> 5 Questions 
 |     |   |
 |     |   +- pillars_of_oops
-|     |      +-> On 27 Dec 2025 -> 4  Questions (50% of each level)
+|     |      +-> On 27 Dec 2025 -> 4 Questions 
 |     |
 |     +--leetcode-codebase
 |     |  +->
@@ -64,8 +64,10 @@ BridgeLabz-Training
 +--dsa-practice (branch & folder name)
 |     +--gcr-codebased
 |     |   +-linked_list
-|     |   |  +-> On 29 Dec 2025 -> 4  Questions (50% of each level)
+|     |   |  +-> On 29 Dec 2025 -> 4 Questions 
 |     |   |
+|     |   +-stackQueueHashmaps
+|     |   |  +-> On 30 Dec 2025 -> 5 Questions 
 |     |
 |     +--leetcode-codebase
 |     |  +->
@@ -136,6 +138,9 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 ## Week 03 - Data Structures & Algorithms
 + ### Day 14 - 29 Dec 2025 (Monday):
   - Studied and implemented Linked-List related problems . [***Linked List***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3f79f794b370eeba55b2b3ce532294cdc2c97a39/dsa-practice/gcr-codebase/linked_list)
++ ### Day 15 - 30 Dec 2025 (Tuesday):
+  - Solved Stack , Queue and Hashmaps related problems . 
+  - Committed completed solutions to GitHub . [***Stack Queue HashMaps***](https://github.com/Aditi181123/BridgeLabz-Training/tree/b0c4066a6850c2adb47b8f8c2975a57456590925/dsa-practice/gcr-codebase/stackQueueHashmaps)
 
 
 
