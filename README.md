@@ -67,7 +67,11 @@ BridgeLabz-Training
 |     |   |  +-> On 29 Dec 2025 -> 4 Questions 
 |     |   |
 |     |   +-stackQueueHashmaps
-|     |   |  +-> On 30 Dec 2025 -> 5 Questions 
+|     |   |  +-> On 30 Dec 2025 -> 5 Questions
+|     |   |
+|     |   +-sortingAlgoritms
+|     |   |  +-> On 31 Dec 2025 -> 4 Questions
+|     |   |
 |     |
 |     +--leetcode-codebase
 |     |  +->
@@ -137,10 +141,14 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
     
 ## Week 03 - Data Structures & Algorithms
 + ### Day 14 - 29 Dec 2025 (Monday):
-  - Studied and implemented Linked-List related problems . [***Linked List***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3f79f794b370eeba55b2b3ce532294cdc2c97a39/dsa-practice/gcr-codebase/linked_list)
+  - Studied and implemented Linked-List related problems .
+  - Committed completed solutions to GitHub . [***Linked List***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3f79f794b370eeba55b2b3ce532294cdc2c97a39/dsa-practice/gcr-codebase/linked_list)
 + ### Day 15 - 30 Dec 2025 (Tuesday):
   - Solved Stack , Queue and Hashmaps related problems . 
   - Committed completed solutions to GitHub . [***Stack Queue HashMaps***](https://github.com/Aditi181123/BridgeLabz-Training/tree/b0c4066a6850c2adb47b8f8c2975a57456590925/dsa-practice/gcr-codebase/stackQueueHashmaps)
++ ### Day 16 - 31 Dec 2025 (Wednesday):
+  - Solved Sorting Algoritms problems . 
+  - Committed completed solutions to GitHub . [***Sorting Algorithms***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7bcca21262376f5d178c20c074eab0ca5561338b/dsa-practice/gcr-codebase/sortingAlgorithms)
 
 
 
