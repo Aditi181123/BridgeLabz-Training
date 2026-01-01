@@ -55,10 +55,10 @@ BridgeLabz-Training
 |     |      +-> On 27 Dec 2025 -> 4 Questions 
 |     |
 |     +--leetcode-codebase
-|     |  +->
+|     |   +->
 |     |
 |     +--scenario-base
-|        +->
+|         +-> On 31 Dec 2025 -> 1 Question
 |
 |
 +--dsa-practice (branch & folder name)
@@ -72,12 +72,17 @@ BridgeLabz-Training
 |     |   +-sortingAlgoritms
 |     |   |  +-> On 31 Dec 2025 -> 4 Questions
 |     |   |
+|     |   +-linearAndBinarySearch
+|     |   |  +-> On 31 Dec 2025 -> 7 Questions
+|     |   |
+|     |   +-algorithmAnalysis
+|     |   |  +-> On 01 Jan 2026 -> 3 Questions
 |     |
 |     +--leetcode-codebase
-|     |  +->
+|     |   +->
 |     |
 |     +--scenario-base
-|        +->
+|         +->
 |
 +--> review 
 
@@ -147,8 +152,9 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved Stack , Queue and Hashmaps related problems . 
   - Committed completed solutions to GitHub . [***Stack Queue HashMaps***](https://github.com/Aditi181123/BridgeLabz-Training/tree/b0c4066a6850c2adb47b8f8c2975a57456590925/dsa-practice/gcr-codebase/stackQueueHashmaps)
 + ### Day 16 - 31 Dec 2025 (Wednesday):
-  - Solved Sorting Algoritms problems . 
-  - Committed completed solutions to GitHub . [***Sorting Algorithms***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7bcca21262376f5d178c20c074eab0ca5561338b/dsa-practice/gcr-codebase/sortingAlgorithms)
+  - Solved and committed completed solutions of Sorting Algoritms problems . [***Sorting Algorithms***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7bcca21262376f5d178c20c074eab0ca5561338b/dsa-practice/gcr-codebase/sortingAlgorithms)
+  - Implemented scenario based question . [***Scenario***](https://github.com/Aditi181123/BridgeLabz-Training/tree/fcbb1555c4519739422d1df7fa0cf1e730b79660/oops-practice/scenario-base)
+  - Implied and submitted the Linear and Binary Search Questions . [***Linear and Binary Search***](https://github.com/Aditi181123/BridgeLabz-Training/tree/274cf3ae5d737a6f20663203bcbbbae9b1b1c964/dsa-practice/gcr-codebase/linearAndBinarySearch)
 
 
 
