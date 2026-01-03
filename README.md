@@ -76,7 +76,7 @@ BridgeLabz-Training
 |     |   |  +-> On 31 Dec 2025 -> 7 Questions
 |     |   |
 |     |   +-algorithmAnalysis
-|     |   |  +-> On 01 Jan 2026 -> 3 Questions
+|     |      +-> On 01 Jan 2026 -> 3 Questions
 |     |
 |     +--leetcode-codebase
 |     |   +->
@@ -155,6 +155,9 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved and committed completed solutions of Sorting Algoritms problems . [***Sorting Algorithms***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7bcca21262376f5d178c20c074eab0ca5561338b/dsa-practice/gcr-codebase/sortingAlgorithms)
   - Implemented scenario based question . [***Scenario***](https://github.com/Aditi181123/BridgeLabz-Training/tree/fcbb1555c4519739422d1df7fa0cf1e730b79660/oops-practice/scenario-base)
   - Implied and submitted the Linear and Binary Search Questions . [***Linear and Binary Search***](https://github.com/Aditi181123/BridgeLabz-Training/tree/274cf3ae5d737a6f20663203bcbbbae9b1b1c964/dsa-practice/gcr-codebase/linearAndBinarySearch)
++ ### Day 17 - 01 Dec 2026 (Thursday):
+  - Solved Algorithm's Runtime Analysis & Big-O Notation related problems . 
+  - Committed completed solutions to GitHub . [***Algorithm Analysis***](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice/gcr-codebase/algorithmAnalysis)
 
 
 
