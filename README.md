@@ -1,4 +1,15 @@
-# BridgeLabz-Training
+# 🚀 BridgeLabz Training Program
+Welcome to the BridgeLabz Core Java Training Repository. This repository documents a structured learning journey in Core Java, covering programming fundamentals, control flow, and problem-solving through hands-on practice.
+
+📌 Designed as part of the BridgeLabz Training Program 
+🎯 Focus: Strong Java fundamentals, logic building, and clean coding practices
+
+# 📊 Repository Status
+* **Status:** Active Development
+* **Language:** Java
+* **Recommended JDK:** Java 11+ (Java 17 preferred)
+* **IDE Support:** IntelliJ IDEA / Eclipse / VS Code (Java Extensions)
+* **Author:** Aditi Mittal
 
 ## Folder Structure - GitHub Repository 
 ```
