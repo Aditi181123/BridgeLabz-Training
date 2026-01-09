@@ -142,25 +142,19 @@ Each branch focuses on specific learning objectives and problem sets.
 👉 [Oops-Practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/fcbb1555c4519739422d1df7fa0cf1e730b79660/oops-practice)
 
 📂 **DSA Practice**
-👉 [dsa-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice)
+👉 [Dsa-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice)
 
 📂 **Collection Practice**
-👉 [collection-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice)
+👉 [Collection-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice)
+
+📂 **Collection Practice**
+👉 [Review](https://github.com/Aditi181123/BridgeLabz-Training/tree/c720abfb15d4406c58ac90dab95247bcdee49ef9/review)
+
 
 
 ## Daily Progress Log – BridgeLabz 2215000084
 
 This log tracks the daily tasks completed during the BridgeLabz Training Program . The tasks are arranged week-wise with topic headings and describe the work done on each day and date.
-
-
-## Week 00 - Set Up 
-+ ### Day 1. 16 Dec 2025 (Tuesday):
-  - Installed and configured Eclipse IDE .
-  - Initialized and set up Git repository  . [***Git Hub***](https://github.com/Aditi181123/BridgeLabz-Training.git)
-+ ### Day 2. 17 Dec 2025 (Wednesday):
-  - Created and organized project folder structure .
-  - Solved and submitted 5 basic Java LeetCode problems . [***LeetCode***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/leetcode-codebase)
-
 
 ## Week 00 - Set Up 
 + ### Day 1. 16 Dec 2025 (Tuesday):
@@ -224,7 +218,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved Algorithm's Runtime Analysis & Big-O Notation related problems . 
   - Committed completed solutions to GitHub . [***Algorithm Analysis***](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice/gcr-codebase/algorithmAnalysis)
  
- 
+
 ## Week 04 - Java Collections, Streams
 + ### Day 18 - 02 Jan 2026 (Friday):
   - Studied Java Generics documentation .
