@@ -162,6 +162,15 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved and submitted 5 basic Java LeetCode problems . [***LeetCode***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/leetcode-codebase)
 
 
+## Week 00 - Set Up 
++ ### Day 1. 16 Dec 2025 (Tuesday):
+  - Installed and configured Eclipse IDE .
+  - Initialized and set up Git repository  . [***Git Hub***](https://github.com/Aditi181123/BridgeLabz-Training.git)
++ ### Day 2. 17 Dec 2025 (Wednesday):
+  - Created and organized project folder structure .
+  - Solved and submitted 5 basic Java LeetCode problems . [***LeetCode***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/leetcode-codebase)
+
+
 ## Week 01 - Core Programming
 + ### Day 3. 18 Dec 2025 (Thursday):
   - Practiced and implemented `Programming Elements` concepts .
@@ -214,7 +223,8 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + ### Day 17 - 01 Dec 2026 (Thursday):
   - Solved Algorithm's Runtime Analysis & Big-O Notation related problems . 
   - Committed completed solutions to GitHub . [***Algorithm Analysis***](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice/gcr-codebase/algorithmAnalysis)
-
+ 
+ 
 ## Week 04 - Java Collections, Streams
 + ### Day 18 - 02 Jan 2026 (Friday):
   - Studied Java Generics documentation .
