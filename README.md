@@ -2,16 +2,28 @@
 Welcome to the BridgeLabz Core Java Training Repository. This repository documents a structured learning journey in Core Java, covering programming fundamentals, control flow, and problem-solving through hands-on practice.
 
 📌 Designed as part of the BridgeLabz Training Program 
+
+
 🎯 Focus: Strong Java fundamentals, logic building, and clean coding practices
 
-# 📊 Repository Status
-* **Status:** Active Development
-* **Language:** Java
-* **Recommended JDK:** Java 11+ (Java 17 preferred)
-* **IDE Support:** IntelliJ IDEA / Eclipse / VS Code (Java Extensions)
-* **Author:** Aditi Mittal
+## 📊 Repository Status
+**Status:** Active Development
+
+
+**Language:** Java
+
+
+**Recommended JDK:** Java 11+ (Java 17 preferred)
+
+
+**IDE Support:** IntelliJ IDEA / Eclipse / VS Code (Java Extensions)
+
+
+**Author:** Aditi Mittal
 
 ## Folder Structure - GitHub Repository 
+
+
 ```
 BridgeLabz-Training
 |
@@ -42,7 +54,9 @@ BridgeLabz-Training
 |     |   +-> On 17 Dec 2025 -> 5 Basic Questions
 |     |  
 |     +--scenario-base
-|         +-> On 20 Dec 2025 -> 2 Questions
+|         +- Maya BMI Fitness Tracker
+|         +- The Coffee Counter Chronicles
+|             +->On 20 Dec 2025 -> 2 Questions
 |
 |
 +--oops-practice (branch & folder name)
@@ -65,11 +79,11 @@ BridgeLabz-Training
 |     |   +- pillars_of_oops
 |     |      +-> On 27 Dec 2025 -> 4 Questions 
 |     |
-|     +--leetcode-codebase
-|     |   +->
+|     +--leetcode-codebase/
 |     |
 |     +--scenario-base
-|         +-> On 31 Dec 2025 -> 1 Question
+|         +- Employee Wage
+|             +-> On 31 Dec 2025 -> 1 Question
 |
 |
 +--dsa-practice (branch & folder name)
@@ -89,19 +103,50 @@ BridgeLabz-Training
 |     |   +-algorithmAnalysis
 |     |      +-> On 01 Jan 2026 -> 3 Questions
 |     |
-|     +--leetcode-codebase
-|     |   +->
+|     +--leetcode-codebase/
 |     |
-|     +--scenario-base
-|         +->
+|     +--scenario-base/
+|
+|
++--collection-practice (branch & folder name)
+|     +--gcr-codebased
+|     |   +-generics
+|     |   |  +-> On 03 Jan 2026 -> 3 Questions 
+|     |   |
+|     |   +-collections
+|     |   |  +-> On 07 Jan 2026 -> 15 Questions
+|     |   |
+|     |   +-streams
+|     |   |  +-> On 08 Jan 2026 -> 5 Questions
+|     |   |
+|     |   +-exception
+|     |   |  +-> On 09 Jan 2026 -> 5 Questions
+|     |
+|     +--leetcode-codebase/
+|     |
+|     +--scenario-base/
 |
 +--> review 
-
-
-
-
+      +--Week1
+          +- On 05 Jan 2026 -> 4 Questions
 
 ```
+Each branch focuses on specific learning objectives and problem sets.
+
+## 🔗 Direct Folder Links
+
+📂 **Core Java Practice**
+👉 [Core Java Pratices](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice)
+
+📂 **Oops Practice**
+👉 [Oops-Practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/fcbb1555c4519739422d1df7fa0cf1e730b79660/oops-practice)
+
+📂 **DSA Practice**
+👉 [dsa-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice)
+
+📂 **Collection Practice**
+👉 [collection-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice)
+
 
 ## Daily Progress Log – BridgeLabz 2215000084
 
@@ -170,5 +215,70 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved Algorithm's Runtime Analysis & Big-O Notation related problems . 
   - Committed completed solutions to GitHub . [***Algorithm Analysis***](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice/gcr-codebase/algorithmAnalysis)
 
+## Week 04 - Java Collections, Streams
++ ### Day 18 - 02 Jan 2026 (Friday):
+  - Studied Java Generics documentation .
+  - Practiced and implemented concepts .
++ ### Day 19 - 03 Jan 2026 (Saturday):
+  - Practiced and uploaded Generics completed solutions to the repository . [***Generics***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/generics)
++ ### Day 20 - 04 Jan 2026 (Sunday):
+  - Revise and Practice for review 01 .
++ ### Day 21 - 05 Jan 2026 (Monday):
+  - Technical review 01 . [***Review***](https://github.com/Aditi181123/BridgeLabz-Training/tree/c720abfb15d4406c58ac90dab95247bcdee49ef9/review)
+  - Revise for viva .
++ ### Day 22 - 06 Jan 2026 (Tuesday):
+  - Studied Java Collections documentation .
+  - Practiced and implemented concepts .
++ ### Day 23 - 07 Jan 2026 (Wednesday):
+  - Review 01 Viva.
+  - Practiced and uploaded Collections completed solutions to the repository . [***Collections***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/collections)
++ ### Day 24 - 08 Jan 2026 (Thursday):
+  - Solved Streams related problems . 
+  - Committed completed solutions to GitHub . [***Streams***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/streams)
++ ### Day 25 - 09 jan 2026 (Friday):
+  - Solved Exception related problems . 
+  - Committed completed solutions to GitHub . [***Exception***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/exception)
 
 
+
+
+## 🚀 How to Use
+
+Clone the repository and explore topic-wise practice programs:
+
+
+## 🛠️ Tools & Environment
+
++ **Language:** Java
++ **IDE:** Eclipse
++ **Version Control:** Git & GitHub
++ **Practice Platforms:** LeetCode, BridgeLabz LMS
++ **System:** Windows
+
+
+## 🚀 How to Use
+
+This repository is intended for learning and practice. Anyone can use it to understand basic Java concepts and problem-solving approaches.
+
+### Steps to use:
+
+**Clone the repository:**
+git clone https://github.com/Aditi181123/BridgeLabz-Training.git
+
+
+Open the project in a Java IDE such as Eclipse or IntelliJ IDEA.
+
+
+Navigate topic-wise folders (Java basics, control flows, arrays, strings, scenarios).
+
+
+Run individual `.java` files to observe program output.
+
+
+Modify the code to practice, experiment, or improve solutions.
+
+## 📅 Last Updated
+**January 2026**
+
+## 👤 Author
+**Aditi Mittal**
