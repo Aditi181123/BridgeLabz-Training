@@ -121,6 +121,19 @@ BridgeLabz-Training
 |     |   |
 |     |   +-exception
 |     |   |  +-> On 09 Jan 2026 -> 5 Questions
+|     |   |
+|     |   +-regex
+|     |   |  +-> On 12 Jan 2026 -> 13 Questions
+|     |   |
+|     |   +-Junit
+|     |   |  +-> On 13 Jan 2026 -> 7 Questions
+|     |   |
+|     |   +-reflection
+|     |   |  +-> On 14 Jan 2026 -> 
+|     |   |
+|     |   +-annotation
+|     |   |  +-> On 14 Jan 2026 ->
+|     |   |
 |     |
 |     +--leetcode-codebase/
 |     |
@@ -147,7 +160,7 @@ Each branch focuses on specific learning objectives and problem sets.
 📂 **Collection Practice**
 👉 [Collection-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice)
 
-📂 **Collection Practice**
+📂 **Review**
 👉 [Review](https://github.com/Aditi181123/BridgeLabz-Training/tree/c720abfb15d4406c58ac90dab95247bcdee49ef9/review)
 
 
@@ -156,6 +169,7 @@ Each branch focuses on specific learning objectives and problem sets.
 
 This log tracks the daily tasks completed during the BridgeLabz Training Program . The tasks are arranged week-wise with topic headings and describe the work done on each day and date.
 
+
 ## Week 00 - Set Up 
 + ### Day 1. 16 Dec 2025 (Tuesday):
   - Installed and configured Eclipse IDE .
@@ -163,6 +177,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + ### Day 2. 17 Dec 2025 (Wednesday):
   - Created and organized project folder structure .
   - Solved and submitted 5 basic Java LeetCode problems . [***LeetCode***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/leetcode-codebase)
+
 
 
 ## Week 01 - Core Programming
@@ -189,6 +204,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Committed completed solutions to GitHub . [***Extra***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a946e2b1cf22cd4e9ee3ab0b888df9c0c7095904/core-java-practice/gcr-codebased/extra)
 
 
+
 ## Week 02 - Object-Oriented Programming
 + ### Day 10 – 25 Dec 2025 (Thursday):
   - Practiced basic `OOPS` concepts through coding problems .
@@ -203,6 +219,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Practiced Interfaces and Abstract Classes with practical examples . [***Pillars of OOPS***](https://github.com/Aditi181123/BridgeLabz-Training/tree/a0bd32ae143e254bfe57d7f6c4487b57b551e97c/oops-practice/gcr-codebase/pillars_of_oops)
  
     
+
 ## Week 03 - Data Structures & Algorithms
 + ### Day 14 - 29 Dec 2025 (Monday):
   - Studied and implemented Linked-List related problems .
@@ -218,6 +235,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Solved Algorithm's Runtime Analysis & Big-O Notation related problems . 
   - Committed completed solutions to GitHub . [***Algorithm Analysis***](https://github.com/Aditi181123/BridgeLabz-Training/tree/6f2bc72ee93fb80782d0e16abe43d9971df00e3b/dsa-practice/gcr-codebase/algorithmAnalysis)
  
+
 
 ## Week 04 - Java Collections, Streams
 + ### Day 18 - 02 Jan 2026 (Friday):
@@ -239,16 +257,20 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + ### Day 24 - 08 Jan 2026 (Thursday):
   - Solved Streams related problems . 
   - Committed completed solutions to GitHub . [***Streams***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/streams)
-+ ### Day 25 - 09 jan 2026 (Friday):
++ ### Day 25 - 09 Jan 2026 (Friday):
   - Solved Exception related problems . 
   - Committed completed solutions to GitHub . [***Exception***](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice/gcr-codebase/exception)
++ ### Day 28 - 12 Jan 2026 (Monday):
+  - Solved Regex related problems .
+  - Committed completed solutions to GitHub . [***Regex***](https://github.com/Aditi181123/BridgeLabz-Training/tree/ede36e44ee9f0f26530f0cb23004711ce6aa1ba3/collection-practice/gcr-codebase/Regex)
++ ### Day 29 - 13 Jan 2026 (Tuesday):
+  - Solved Junit related problems .
+  - Committed completed solutions to GitHub . [***Junit***](https://github.com/Aditi181123/BridgeLabz-Training/tree/ede36e44ee9f0f26530f0cb23004711ce6aa1ba3/collection-practice/gcr-codebase/test/target/classes/JUnit)
++ ### Day 30 - 14 Jan 2026 (Wednesday):
+  - Solved Reflection related problems .
+  - Committed completed solutions to GitHub . 
 
 
-
-
-## 🚀 How to Use
-
-Clone the repository and explore topic-wise practice programs:
 
 
 ## 🛠️ Tools & Environment
