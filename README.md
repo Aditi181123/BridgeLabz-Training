@@ -139,7 +139,7 @@ BridgeLabz-Training
 |     |
 |     +--scenario-base/
 |
-+--> review 
++--> review (branch & folder name)
       +- On 05 Jan 2026 -> Core Java , OOPS , DSA .
 
 ```
@@ -284,7 +284,7 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + **System:** Windows
 
 
-## 🚀🚀 How to Use
+## 🚀 How to Use
 
 This repository is intended for learning and practice. Anyone can use it to understand basic Java concepts and problem-solving approaches.
 
@@ -306,6 +306,7 @@ Run individual `.java` files to observe program output.
 
 
 Modify the code to practice, experiment, or improve solutions.
+
 
 ## 📅 Last Updated
 **20 January 2026**
