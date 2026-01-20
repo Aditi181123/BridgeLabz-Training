@@ -129,10 +129,10 @@ BridgeLabz-Training
 |     |   |  +-> On 13 Jan 2026 -> 7 Questions
 |     |   |
 |     |   +-reflection
-|     |   |  +-> On 14 Jan 2026 -> 
+|     |   |  +-> On 14 Jan 2026 -> 7 Questions
 |     |   |
 |     |   +-annotation
-|     |   |  +-> On 14 Jan 2026 ->
+|     |   |  +-> On 15 Jan 2026 -> 9 Questions
 |     |   |
 |     |
 |     +--leetcode-codebase/
@@ -140,8 +140,7 @@ BridgeLabz-Training
 |     +--scenario-base/
 |
 +--> review 
-      +--Week1
-          +- On 05 Jan 2026 -> 4 Questions
+      +- On 05 Jan 2026 -> Core Java , OOPS , DSA .
 
 ```
 Each branch focuses on specific learning objectives and problem sets.
@@ -268,7 +267,10 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
   - Committed completed solutions to GitHub . [***Junit***](https://github.com/Aditi181123/BridgeLabz-Training/tree/ede36e44ee9f0f26530f0cb23004711ce6aa1ba3/collection-practice/gcr-codebase/test/target/classes/JUnit)
 + ### Day 30 - 14 Jan 2026 (Wednesday):
   - Solved Reflection related problems .
-  - Committed completed solutions to GitHub . 
+  - Committed completed solutions to GitHub . [***Reflection***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3daff2b5c0784ab962daa951021e4cbe43429779/collection-practice/gcr-codebase/reflection)
++ ### Day 31 - 15 Jan 2026 (Thrusday):
+  - Solved Reflection related problems .
+  - Committed completed solutions to GitHub . [***Annotation***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3daff2b5c0784ab962daa951021e4cbe43429779/collection-practice/gcr-codebase/annotations)
 
 
 
@@ -282,13 +284,15 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + **System:** Windows
 
 
-## 🚀 How to Use
+## 🚀🚀 How to Use
 
 This repository is intended for learning and practice. Anyone can use it to understand basic Java concepts and problem-solving approaches.
 
 ### Steps to use:
 
 **Clone the repository:**
+
+
 git clone https://github.com/Aditi181123/BridgeLabz-Training.git
 
 
@@ -304,7 +308,7 @@ Run individual `.java` files to observe program output.
 Modify the code to practice, experiment, or improve solutions.
 
 ## 📅 Last Updated
-**January 2026**
+**20 January 2026**
 
 ## 👤 Author
 **Aditi Mittal**
