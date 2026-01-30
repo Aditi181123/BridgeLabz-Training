@@ -31,63 +31,66 @@ BridgeLabz-Training
 |  +- README file
 |
 +--core-java-practice (branch & folder name)
-|     +--gcr-codebased
-|     |   +- programming_elements
-|     |   |   +-> On 18 Dec 2025 -> 21 Basic Questions
+|     +--gcr-codebase
+|     |   +-programming_elements
+|     |   |  +-> On 18 Dec 2025 -> 21 Basic Questions
 |     |   |
-|     |   +- controls_flows
-|     |   |   +-> On 19 Dec 2025 -> 40 Questions
+|     |   +-controls_flows
+|     |   |  +-> On 19 Dec 2025 -> 40 Questions
 |     |   |
-|     |   +- arrays
-|     |   |   +-> On 20 Dec 2025 -> 10 Questions
+|     |   +-arrays
+|     |   |  +-> On 20 Dec 2025 -> 10 Questions
 |     |   |
-|     |   +- strings
-|     |   |   +-> On 22 Dec 2025 -> 15 Questions 
+|     |   +-strings
+|     |   |  +-> On 22 Dec 2025 -> 15 Questions 
 |     |   |
-|     |   +- methods
-|     |   |   +-> On 23 Dec 2025 -> 19 Questions
+|     |   +-methods
+|     |   |  +-> On 23 Dec 2025 -> 19 Questions
 |     |   |
-|     |   +- extra
-|     |       +-> On 24 Dec 2025 -> 6 Questions
+|     |   +-extra
+|     |      +-> On 24 Dec 2025 -> 6 Questions
 |     |
 |     +--leetcode-codebase
-|     |   +-> On 17 Dec 2025 -> 5 Basic Questions
+|     |   +- On 17 Dec 2025 -> 5 Basic Questions
 |     |  
 |     +--scenario-base
 |         +- Maya BMI Fitness Tracker
 |         +- The Coffee Counter Chronicles
-|             +->On 20 Dec 2025 -> 2 Questions
-|
+|         |   +-> On 20 Dec 2025 
+|         +- LexicalTwist
+|             +-> On 28 Jan 2026
 |
 +--oops-practice (branch & folder name)
-|     +--gcr-codebased
-|     |   +- class_and_object
+|     +--gcr-codebase
+|     |   +-class_and_object
 |     |   |  +-> On 26 Dec 2025 -> 5 Questions 
 |     |   |
-|     |   +- oopsBasics
+|     |   +-oopsBasics
 |     |   |  +-> On 26 Dec 2025 -> 6 Questions
 |     |   |
-|     |   +- keyword
+|     |   +-keyword
 |     |   |  +-> On 26 Dec 2025 -> 4 Questions
 |     |   |
-|     |   +- object_modeling
+|     |   +-object_modeling
 |     |   |  +-> On 26 Dec 2025 -> 5 Questions
 |     |   |
-|     |   +- inheritance
+|     |   +-inheritance
 |     |   |  +-> On 26 Dec 2025 -> 5 Questions 
 |     |   |
-|     |   +- pillars_of_oops
-|     |      +-> On 27 Dec 2025 -> 4 Questions 
+|     |   +-pillars_of_oops
+|     |   |  +-> On 27 Dec 2025 -> 4 Questions 
+|     |   |
+|     |   +-addressBook
+|     |      +-> On 26 Jan 2026
 |     |
 |     +--leetcode-codebase/
 |     |
 |     +--scenario-base
 |         +- Employee Wage
-|             +-> On 31 Dec 2025 -> 1 Question
-|
+|            +-> On 31 Dec 2025
 |
 +--dsa-practice (branch & folder name)
-|     +--gcr-codebased
+|     +--gcr-codebase
 |     |   +-linked_list
 |     |   |  +-> On 29 Dec 2025 -> 4 Questions 
 |     |   |
@@ -106,10 +109,14 @@ BridgeLabz-Training
 |     +--leetcode-codebase/
 |     |
 |     +--scenario-base/
+|         +- Aero Vigil
+|         |  +-> On 28 Jan 2026
+|         +- Factory Robot Hazard Analyzer
+|            +-> On 30 Jan 2026
 |
 |
 +--collection-practice (branch & folder name)
-|     +--gcr-codebased
+|     +--gcr-codebase
 |     |   +-generics
 |     |   |  +-> On 03 Jan 2026 -> 3 Questions 
 |     |   |
@@ -132,15 +139,45 @@ BridgeLabz-Training
 |     |   |  +-> On 14 Jan 2026 -> 7 Questions
 |     |   |
 |     |   +-annotation
-|     |   |  +-> On 15 Jan 2026 -> 9 Questions
-|     |   |
+|     |      +-> On 16 Jan 2026 -> 9 Questions
 |     |
 |     +--leetcode-codebase/
 |     |
 |     +--scenario-base/
 |
-+--> review (branch & folder name)
-      +- On 05 Jan 2026 -> Core Java , OOPS , DSA .
+|
++--io-practice (branch & folder name)
+|     +--gcr-codebase
+|     |   +-csv_handling
+|     |   |  +-> On 20 Jan 2026 -> 8 Questions 
+|     |   |
+|     |   +-JSON
+|     |      +-> On 25 Jan 2026 -> 11 Questions
+|     |
+|     +--leetcode-codebase/
+|     |
+|     +--scenario-base/
+|
+|
++--java8-practice (branch & folder name)
+|     +--gcr-codebase
+|     |   +-lambdaExpressions
+|     |   |  +-> On 26 Jan 2026 -> 6 Questions 
+|     |   |
+|     |   +-functionalInterfaces
+|     |      +-> On 29 Jan 2026 -> 15 Questions
+|     |
+|     +--leetcode-codebase/
+|     |
+|     +--scenario-base/
+|
+|
++--review (branch & folder name)
+      +--CabBooking.java
+      +--FinalKeyword.java
+      +--NonRepeated.java
+      +--customException.java
+          +-> On 05 Jan 2026 -> Core Java , OOPS , DSA .
 
 ```
 Each branch focuses on specific learning objectives and problem sets.
@@ -158,6 +195,12 @@ Each branch focuses on specific learning objectives and problem sets.
 
 📂 **Collection Practice**
 👉 [Collection-practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/9134fea34a40440fd2213ecaf8798a98ced6f6f8/collection-practice)
+
+📂 **IO Practice**
+👉 [IO Practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/7e2a904321acb719cd10b491285bf8545b9ea899/io-practice)
+
+📂 **Java8 Practice**
+👉 [Java8 Practice](https://github.com/Aditi181123/BridgeLabz-Training/tree/94e59d0a63a894dd3bb914e98a5f95b6332e877d/java8-practice)
 
 📂 **Review**
 👉 [Review](https://github.com/Aditi181123/BridgeLabz-Training/tree/c720abfb15d4406c58ac90dab95247bcdee49ef9/review)
@@ -271,6 +314,40 @@ This log tracks the daily tasks completed during the BridgeLabz Training Program
 + ### Day 31 - 15 Jan 2026 (Thrusday):
   - Solved Reflection related problems .
   - Committed completed solutions to GitHub . [***Annotation***](https://github.com/Aditi181123/BridgeLabz-Training/tree/3daff2b5c0784ab962daa951021e4cbe43429779/collection-practice/gcr-codebase/annotations)
+
+
+
+## Week 05 - IO Programming
++ ### Day 32 - 16 Jan 2026 (Friday):
+  - Solved some uc of address book (OOPS).
++ ### Day 35 - 19 Jan 2026 (Monday):
+  - Studied CSV Handling documentation .
+  - Practiced and implemented concepts .
++ ### Day 36 - 20 Jan 2026 (Tuesday):
+  - Committed completed solutions to GitHub . [***CSV Handling***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7e2a904321acb719cd10b491285bf8545b9ea899/io-practice/gcr-codebase/csv-handling)
++ ### Day 37 - 21 Jan 2026 (Wednesday):
+  - Studied JSON Handling documentation .
+  - Practiced and implemented concepts .
++ ### Day 41 - 25 Jan 2026 (Sunday):
+  - Committed completed solutions to GitHub . [***JSON Handling***](https://github.com/Aditi181123/BridgeLabz-Training/tree/7e2a904321acb719cd10b491285bf8545b9ea899/io-practice/gcr-codebase/JSON/src/main/java/JSON)
+  - - Committed addressbook solutions to GitHub . [***Address Book***](https://github.com/Aditi181123/BridgeLabz-Training/tree/d3ce9f55f94bd2a57431ff680481e49c4ce271b1/oops-practice/gcr-codebase/AddressBook)
+
+
+
+## Week 06 - Java 8 & its Features
++ ### Day 42 - 26 Jan 2026 (Monday):
+  - Solved Reflection related problems .
+  - Committed completed solutions to GitHub . 
++ ### Day 44 - 28 Jan 2026 (Wednesday):
+  - Solved and committed scenairo based Questions.
+  - [***Lexical Twist***](https://github.com/Aditi181123/BridgeLabz-Training/blob/7d3bfd1b6025572fcbc078958f6eecb5e8808604/core-java-practice/scenario_base/LexicalTwist.java)
+  - [***Aero Vigil***](https://github.com/Aditi181123/BridgeLabz-Training/blob/e8b5a1cadc0130d301eb53dbaacb6f15608d5bc8/dsa-practice/scenario_base/AeroVigil.java)
++ ### Day 45 - 29 Jan 2026 (Thrusday):
+  -  Solved and committed scenairo based Questions . [***Future Logistics***](https://github.com/Aditi181123/BridgeLabz-Training/blob/d3ce9f55f94bd2a57431ff680481e49c4ce271b1/oops-practice/scenario-base/FutureLogistics.java)
+  - Solved and Committed Functional Interfaces Questions . [***Functional Interface***](https://github.com/Aditi181123/BridgeLabz-Training/tree/94e59d0a63a894dd3bb914e98a5f95b6332e877d/java8-practice/gcr-codebase/functionalInterfaces)
++ ### Day 46 - 30 Jan 2026 (Friday):
+  - Solved scenario based question . [***Factory Robot Hazard Analyzer***](https://github.com/Aditi181123/BridgeLabz-Training/blob/e8b5a1cadc0130d301eb53dbaacb6f15608d5bc8/dsa-practice/scenario_base/FactoryRobotHazardAnalyzer.java)
+
 
 
 
