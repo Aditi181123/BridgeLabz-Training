@@ -6,48 +6,62 @@ public class AddressBookMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         AddressBookSystem system = new AddressBookSystem();
-
-        while (true) {
-            System.out.println("\n1 Add Address Book");
-            System.out.println("2 Add Person");
-            System.out.println("3 Edit Person");
-            System.out.println("4 Delete Person");
-            System.out.println("5 Search by City/State");
-            System.out.println("6 Exit");
-
-            System.out.print("Choice: ");
-            int choice = sc.nextInt();
-            sc.nextLine(); // consume newline
-
-            if (choice == 6) break;
-
-            switch (choice) {
-                case 1 : {
-                    System.out.print("Address Book Name: ");
-                    system.addAddressBook(sc.nextLine());
-                }
-                case 2 : {
-                    System.out.print("Address Book Name: ");
-                    AddressBook book = system.getAddressBook(sc.nextLine());
-                    if (book != null) AddPerson.execute(book, sc);
-                    else System.out.println("Address Book not found.");
-                }
-                case 3 : {
-                    System.out.print("Address Book Name: ");
-                    AddressBook book = system.getAddressBook(sc.nextLine());
-                    if (book != null) EditPerson.execute(book, sc);
-                    else System.out.println("Address Book not found.");
-                }
-                case 4 : {
-                    System.out.print("Address Book Name: ");
-                    AddressBook book = system.getAddressBook(sc.nextLine());
-                    if (book != null) DeletePerson.execute(book, sc);
-                    else System.out.println("Address Book not found.");
-                }
-                case 5 : SearchPerson.execute(system, sc);
-                default : System.out.println("Invalid choice.");
-            }
+        AddressBook curr = null;
+        
+        System.out.println("Welcome to Address Book Program");
+        
+        while(true) {
+        	System.out.println("\n Address Book System ");
+        	System.out.println(" 1. Create Address Book ");
+        	System.out.println(" 2. Add Contact ");
+        	System.out.println(" 3. Edit Contact ");
+        	System.out.println(" 4. Delete Contact ");
+        	System.out.println(" 5. Search Contacts in city or state ");
+        	
+        	System.out.print("Choice :  ");
+        	int choice = sc.nextInt();
+        	
+        	switch(choice) {
+        	case 1 : {
+        		System.out.println("Enter Address Book Name");
+        		system.addAddressBook(sc.next());
+        	}
+        	
+        	case 2 : {
+        		System.out.println("Enter Address Book Name ");
+        		curr = system.getAddressBook(sc.next());
+        		if(curr != null) {
+        			AddPerson.add(curr, sc);
+        		}
+        		else {
+        			System.out.println("Address Book does not Exist...");
+        		}
+        	}
+        	case 3 : {
+        		System.out.println("Enter Address Book Name ");
+        		curr = system.getAddressBook(sc.next());
+        		if(curr != null) {
+        			EditPerson.edit(curr, sc);
+        		}
+        		else {
+        			System.out.println("Address Book does not Exist...");
+        		}
+        	}
+        	case 4 : {
+        		System.out.println("Enter Address Book Name ");
+        		curr = system.getAddressBook(sc.next());
+        		if(curr != null) {
+        			DeletePerson.delete(curr, sc);
+        		}
+        		else {
+        			System.out.println("Address Book does not Exist...");
+        		}
+        	}
+        	case 5 : {
+        		SearchPerson.search(system, sc);
+        	}
+        	}
+        	
         }
-        sc.close();
     }
 }

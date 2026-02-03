@@ -4,16 +4,16 @@ package AddressBook.project;
 
 public class Contact {
 
-	private String firstName;
-	private String lastName;
-	private String address;
-	private String city;
-	private String state;
-	private String zip;
-	private String phoneNumber;
-	private String email;
+	String firstName;
+	String lastName;
+	String address;
+	String city;
+	String state;
+	String pincode;
+	String phoneNumber;
+	String email;
 
-	public Contact(String firstName, String lastName, String address,
+	Contact(String firstName, String lastName, String address,
 			String city, String state, String zip,
 			String phoneNumber, String email) {
 
@@ -22,49 +22,63 @@ public class Contact {
 		this.address = address;
 		this.city = city;
 		this.state = state;
-		this.zip = zip;
+		this.pincode = zip;
 		this.phoneNumber = phoneNumber;
 		this.email = email;
 	}
 
-	public String getKey() {
-		return firstName + lastName;
+	public String getFullName() {
+		return firstName + " " + lastName;
 	}
 
+	public String getAddress() {
+		return address;
+	}
 	public void setAddress(String address) {
 		this.address = address;
 	}
-
+	public String getCity() {
+		return city;
+	}
 	public void setCity(String city) {
 		this.city = city;
 	}
-
+	public String getState() {
+		return state;
+	}
 	public void setState(String state) {
 		this.state = state;
 	}
-
-	public void setZip(String zip) {
-		this.zip = zip;
+	public String getPincode() {
+		return pincode;
 	}
-
+	public void setPincode(String pincode) {
+		this.pincode = pincode;
+	}
+	public String getPhoneNumber() {
+		return phoneNumber;
+	}
+	public void setPhoneNumber(String  phoneNumber) {
+		this.phoneNumber = phoneNumber;
+	}
+	public String getEmail() {
+		return email;
+	}
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
+	
 	@Override
 	public String toString() {
-		return firstName + " " + lastName +
+		return getFullName() +
 				", " + address +
 				", " + city +
 				", " + state +
-				" - " + zip +
+				" - " + pincode +
 				", Phone: " + phoneNumber +
 				", Email: " + email;
 	}
 
-	public String getFullName() {
-		// TODO Auto-generated method stub
-		return null;
-	}
+
 }
 

@@ -1,25 +1,37 @@
 package AddressBook.project;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class AddressBook {
-    private Set<ContactPerson> persons = new HashSet<>();
+	private Set<Contact> persons = new HashSet<>();
 
-    public boolean addPerson(ContactPerson person) {
-        return persons.add(person);
-    }
+	public boolean addPerson(Contact person) {
+		return persons.add(person);
+	}
 
-    public boolean deletePerson(String firstName, String lastName) {
-        return persons.removeIf(p -> p.getFullName().equalsIgnoreCase(firstName + lastName));
-    }
+	public boolean deletePerson(String firstName, String lastName) {
+	    for (Contact p : persons) {
+	        if (p.getFullName().equalsIgnoreCase(firstName + " " + lastName)){
+	            persons.remove(p);
+	            return true;
+	        }
+	    }
+	    return false;
+	}
 
-    public ContactPerson findPerson(String firstName, String lastName) {
-        for (ContactPerson p : persons) {
-            if (p.getFullName().equalsIgnoreCase(firstName + lastName)) return p;
-        }
-        return null;
-    }
+	public Contact findPerson(String firstName, String lastName) {
+		for (Contact p : persons) {
+			if (p.getFullName().equalsIgnoreCase(firstName + lastName)) {
+				return p;
+			}
+		}
+		return null;
+	}
 
-    public Set<ContactPerson> getPersons() { return persons; }
+	public Set<Contact> getPersons() { 
+		return persons;
+	}
+	public List<Contact> getPersons() {
+	    return persons;
+	}
 }
