@@ -32,8 +32,7 @@ BridgeLabz-Training
 |
 +--core-java-practice (branch & folder name)
 |     +--gcr-codebase
-|     |   +-programming_elements
-|     |   |  +-> On 18 Dec 2025 -> 21 Basic Questions
+|     |   +-programming_elements -> On 18 Dec 2025 
 |     |   |
 |     |   +-controls_flows
 |     |   |  +-> On 19 Dec 2025 -> 40 Questions
@@ -144,6 +143,9 @@ BridgeLabz-Training
 |     +--leetcode-codebase/
 |     |
 |     +--scenario-base/
+|         +- Stream Buzz
+|         |   +-> On 2 Feb 2026
+|         +- 
 |
 |
 +--io-practice (branch & folder name)
@@ -165,7 +167,16 @@ BridgeLabz-Training
 |     |   |  +-> On 26 Jan 2026 -> 6 Questions 
 |     |   |
 |     |   +-functionalInterfaces
-|     |      +-> On 29 Jan 2026 -> 15 Questions
+|     |   |  +-> On 29 Jan 2026 -> 15 Questions
+|     |   |
+|     |   +-streamAPI
+|     |   |  +-> On 31 Jan 2026 -> 10 Questions
+|     |   | 
+|     |   +-collectors
+|     |   |  +-> On 31 Jan 2026 -> 5 Questions
+|     |   |
+|     |   +-workshop
+|     |      +-> On 2 Feb 2026 -> 1 Question
 |     |
 |     +--leetcode-codebase/
 |     |
