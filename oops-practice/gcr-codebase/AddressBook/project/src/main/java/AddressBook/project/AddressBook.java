@@ -10,13 +10,13 @@ public class AddressBook {
 	}
 
 	public boolean deletePerson(String firstName, String lastName) {
-	    for (Contact p : persons) {
-	        if (p.getFullName().equalsIgnoreCase(firstName + " " + lastName)){
-	            persons.remove(p);
-	            return true;
-	        }
-	    }
-	    return false;
+		for (Contact p : persons) {
+			if (p.getFullName().equalsIgnoreCase(firstName + " " + lastName)){
+				persons.remove(p);
+				return true;
+			}
+		}
+		return false;
 	}
 
 	public Contact findPerson(String firstName, String lastName) {
@@ -28,10 +28,17 @@ public class AddressBook {
 		return null;
 	}
 
-	public Set<Contact> getPersons() { 
-		return persons;
+	public List<Contact> getPersonsList() {
+		return new ArrayList<>(persons);
 	}
-	public List<Contact> getPersons() {
-	    return persons;
+
+	public Contact[] getPersons() {
+		return persons.toArray(new Contact[0]);
 	}
+	public void addAll(List<Contact> contacts) {
+	    persons.addAll(contacts);
+	}
+
+
+
 }

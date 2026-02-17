@@ -79,6 +79,21 @@ public class Contact {
 				", Email: " + email;
 	}
 
+	public String getFirstName() {
+		// TODO Auto-generated method stub
+		return firstName;
+	}
+
+	public String toFileString() {
+        return firstName + "," + lastName + "," + address + "," + city + "," +
+               state + "," + pincode + "," + phoneNumber + "," + email;
+    }
+
+    public static Contact fromFileString(String line) {
+        String[] data = line.split(",");
+        return new Contact(data[0], data[1], data[2], data[3], data[4],
+                           data[5], data[6], data[7]);
+    }
 
 }
 
