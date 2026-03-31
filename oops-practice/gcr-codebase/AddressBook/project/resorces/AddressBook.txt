@@ -1,0 +1,2 @@
+Aditi,Mittal,Delhi Street,Delhi,UP,201301,9999999999,aditi@gmail.com
+Rahul,Sharma,Mumbai Road,Mumbai,MH,400001,8888888888,rahul@gmail.com
