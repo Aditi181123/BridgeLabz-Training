@@ -57,7 +57,9 @@ BridgeLabz-Training
 |         +- The Coffee Counter Chronicles
 |         |   +-> On 20 Dec 2025 
 |         +- LexicalTwist
-|             +-> On 28 Jan 2026
+|         |   +-> On 28 Jan 2026
+|         +- Flip Key
+|             +-> On 7 Feb 2026
 |
 +--oops-practice (branch & folder name)
 |     +--gcr-codebase
@@ -79,8 +81,11 @@ BridgeLabz-Training
 |     |   +-pillars_of_oops
 |     |   |  +-> On 27 Dec 2025 -> 4 Questions 
 |     |   |
+|     |   +-M1 Questions
+|     |   |  +-> On 19 March 2026
+|     |   |
 |     |   +-addressBook
-|     |      +-> On 26 Jan 2026
+|     |      +-> On 17 Feb 2026 (Updated)
 |     |
 |     +--leetcode-codebase/
 |     |
@@ -138,14 +143,18 @@ BridgeLabz-Training
 |     |   |  +-> On 14 Jan 2026 -> 7 Questions
 |     |   |
 |     |   +-annotation
-|     |      +-> On 16 Jan 2026 -> 9 Questions
+|     |   |  +-> On 16 Jan 2026 -> 9 Questions
+|     |   |
+|     |   +-Sonarqube
+|     |      +-> On 8 Feb 2026 
 |     |
 |     +--leetcode-codebase/
 |     |
 |     +--scenario-base/
 |         +- Stream Buzz
 |         |   +-> On 2 Feb 2026
-|         +- 
+|         +- OceanFleet
+|             +-> On 3 Feb 2026
 |
 |
 +--io-practice (branch & folder name)
@@ -178,9 +187,27 @@ BridgeLabz-Training
 |     |   +-workshop
 |     |      +-> On 2 Feb 2026 -> 1 Question
 |     |
-|     +--leetcode-codebase/
-|     |
-|     +--scenario-base/
+|     +--scenario-base
+|         +-EmployeeWageComputation
+|            +-> On 16 Feb 2026 
+|
+|
++--designing-practice (branch & folder name)
+|     +--DesignPatterns
+|        +- SmartUniversityLibrary
+|            +-> On 2 Feb 2026 -> 4 Patterns
+|
+|
++--multi-threading-practice (branch & folder name)
+|     +--gcr-codebase
+|        +-multi_threading
+|           +-> On 7 Feb 2026 -> 5 Questions 
+|
+|
++--DBMS-practice (branch & folder name)
+|     +--gcr-codebase
+|        +-DBMS
+|           +-> On 8 Feb 2026
 |
 |
 +--review (branch & folder name)
