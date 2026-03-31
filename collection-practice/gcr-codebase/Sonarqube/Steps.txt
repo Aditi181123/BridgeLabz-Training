@@ -1,0 +1,75 @@
+Maven + JUnit + JaCoCo + SonarQube Setup Guide
+
+Prerequisites: 1. Install Java (JDK 17 or above) 2. Install Maven 3.
+Install SonarQube Server 4. Start SonarQube Server 5. Ensure project
+uses Maven structure
+
+------------------------------------------------------------------------
+
+Project Folder Structure:
+
+src ├── main │ └── java │ └── your/package/MainClass.java │ └── test └──
+java └── your/package/MainClassTest.java
+
+------------------------------------------------------------------------
+
+Step 1: Build Project and Run Tests
+
+Command: mvn clean test
+
+Result: - Compiles project - Runs unit tests - Shows PASS or FAIL in
+console
+
+------------------------------------------------------------------------
+
+Step 2: Generate Code Coverage Report
+
+Command: mvn clean test jacoco:report
+
+Coverage Report Location: target/site/jacoco/index.html
+
+Open the HTML file in browser to view coverage details.
+
+------------------------------------------------------------------------
+
+Step 3: Run SonarQube Analysis
+
+Start SonarQube server first.
+
+Command: mvn clean verify sonar:sonar -Dsonar.login=YOUR_TOKEN
+
+Replace YOUR_TOKEN with your SonarQube user token.
+
+------------------------------------------------------------------------
+
+Step 4: View SonarQube Report
+
+Open Browser: http://localhost:9000
+
+Login and open your project dashboard.
+
+------------------------------------------------------------------------
+
+Expected Results:
+
+1.  Maven Build should show: BUILD SUCCESS
+
+2.  JUnit should show: Tests run: X, Failures: 0
+
+3.  JaCoCo shows coverage report in browser
+
+4.  SonarQube shows:
+
+    -   Bugs
+    -   Code Smells
+    -   Coverage
+    -   Quality Gate Status
+
+------------------------------------------------------------------------
+
+Notes: - Do not share your Sonar token publicly. - Ensure tests are
+present for better coverage. - Maintain correct folder structure.
+
+------------------------------------------------------------------------
+
+End of Guide
